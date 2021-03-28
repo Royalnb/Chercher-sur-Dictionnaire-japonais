@@ -1,13 +1,13 @@
 browser.contextMenus.create({
-    id: "KitsunSearch",
-    title: "Search on Kitsun.io",
+    id: "ChercherSurDictionnaireJaponais",
+    title: "Chercher sur Dictionnaire-japonais",
     contexts: ["selection"]
 });
 
 browser.contextMenus.onClicked.addListener(contextMenuAction);
 
 function contextMenuAction(info, tab){
-    const url = "https://kitsun.io/dictionary/"+ info.selectionText;
+    const url = "http://www.dictionnaire-japonais.com/search.php?w="+ info.selectionText;
 
     browser.tabs.create({url:url});
 }

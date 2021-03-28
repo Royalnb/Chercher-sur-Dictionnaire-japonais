@@ -1,2 +1,2 @@
-# Search-on-Kitsun.io
-Select any text on the webpage and right-click to open the context menu where you can select "Search on Kitsun.io". This will take you straight to Kitsun.io and look up the highlighted text in the dictionary.
+# Chercher-sur-Dictionnaire-japonais
+Sélectionnez n'importe quel texte de la page web et, à l'aide d'un clic droit, ouvrez le menu contextuel où vous pouvez sélectionner "Chercher sur Dictionnaire-japonais". Cela vous emmènera directement vers le site dictionnaire-japonais.com et recherchera le mot sélectionné dans le dictionnaire.

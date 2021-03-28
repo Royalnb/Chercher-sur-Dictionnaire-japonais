@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name":"Kitsun.io Search",
-    "description": "Search for the selected text in Kitsun.io's dictionary",
+    "name":"Chercher sur Dictionnaire-japonais",
+    "description": "Cherche le texte sélectionné sur dictionnaire-japonais.com; modified from Ollie's Search-on-Kitsun.io",
     "version": "1.0",
-    "author": "Ollie",
+    "author": "Ollie, Nb",
     "homepage_url": "https://github.com/Ollie2304",
     "icons": {
         "48": "icons/icon48.png",
